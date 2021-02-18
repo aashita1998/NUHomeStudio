@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/bangers</item>
+        <item>@font/bungee</item>
+        <item>@font/damion</item>
+        <item>@font/finger_paint</item>
+        <item>@font/hanalei_fill</item>
+        <item>@font/kaushan_script</item>
+    </array>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_living"
+        android:title="Living Room"/>
+
+    <item
+        android:id="@+id/menu_tv"
+        android:title="TV unit" />
+
+    <item
+        android:id="@+id/menu_kitchen"
+        android:title="Kitchen"/>
+
+    <item
+        android:id="@+id/menu_bedroom"
+        android:title="Bedroom"/>
+
+    <item
+        android:id="@+id/contact"
+        android:title="Contact"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout" />
+
+
+
+</menu>
